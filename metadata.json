@@ -1,0 +1,6 @@
+{
+  "name": "SkillBridge – Academia-Industry Collaboration Portal",
+  "description": "Comprehensive academia-industry collaboration platform featuring verified student profiles, standardized skill assessments, AI skill gap analysis, personalized roadmaps, intelligent job/internship matching engine, corporate industry recruitment portal, mentor evaluations, and centralized executive analytics with formal reporting governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
